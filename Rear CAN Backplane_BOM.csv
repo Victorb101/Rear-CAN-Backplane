@@ -1,0 +1,3 @@
+Qty-1,Part References,Value,Package,Mfg Part Num,Mfg Name,VID,Vendor Part Num,Description,Type,Tolerance,Voltage Rating,Package,Value,XREF
+2,"X-206, X-207",,M12-VERT-PCB,43-01169,Conec,DK,626-1497-ND,CONN RCPT PNL MNT 5POS PIN PCB,Connector,*,*,M12,*,REF255
+2,"X-339, X-340",,MICROFIT-6-DUAL-RA-SMD,43045-0609,Molex,NW,71H3391,Micro-Fit header, 6pos, RA, SMD, with solder tabs,Connector,*,*,*,*,REF53
